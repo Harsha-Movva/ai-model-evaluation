@@ -1,0 +1,32 @@
+# HuggingFace Cache
+.hf_cache/
+
+# Node modules & frontend builds
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# Python caching & artifacts
+__pycache__/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+nosetests.xml
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
