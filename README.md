@@ -170,4 +170,4 @@ ai-model-evaluation/
 
 ---
 
-*Developed by Harsha-Movva & MUNNA — 2026*
+*Developed by Movva Hema Harsha Viran — 2026*
